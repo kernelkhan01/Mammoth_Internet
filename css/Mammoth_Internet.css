@@ -1,0 +1,22 @@
+h1 {
+    background-color: #a9e2f8;
+    color: black;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: fixed;
+    padding: 10px;
+    text-align: center;
+}
+
+#main_container {
+    padding: 150px 50px 20px 50px;
+}
+
+#flowchart_photo {
+    display: block;
+    margin: 0 auto;
+    width: 550px;
+    border: 2px solid black;
+    padding: 5px;
+}
