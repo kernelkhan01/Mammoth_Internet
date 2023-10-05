@@ -33,3 +33,20 @@ h2 {
     background-color: #D3D3D3;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+
+.Extra-padding1 {
+    padding-top: 1px #e61e1e;
+}
+
+.Extra-padding2 {
+    padding-bottom: 1px #1ee62f;
+}
+
+li {
+    font-size: medium;
+    font-style: italic;
+}
+
+.BoldItalic {
+    font-weight: bold;
+}
